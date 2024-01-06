@@ -1,0 +1,28 @@
+.hello {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.link {
+    display: flex;
+    justify-content:space-around;
+}
+.img {
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+}
+.question {
+    border: solid #DDDDDD 1px;
+    display: flex;
+    justify-content: center;
+}
+.table {
+    width: 500px;
+    height: 200px;
+    border: solid #DDDDDD 2px;
+    text-align: center;
+}
+.format {
+    color: crimson;
+}
